@@ -3,8 +3,8 @@ class HelloBrew < Formula
 
   desc "Example Python console app to play with Homebrew"
   homepage "https://github.com/jackinf/HellowBrew"
-  url "https://github.com/jackinf/homebrew-tap/releases/download/0.2/hello-brew.tar.gz"
-  sha256 "A06272CF04A6076B63584CE6A5746E4BF7733177A82220F45D921D9EE9EBACE0"
+  url "https://github.com/jackinf/HelloBrew/releases/download/1.0/hello-brew.tar.gz"
+  sha256 "99593DE7AA85233BD337844106E51D06A5FFE677B8DDBEBB5B4F90F0094D2A38"
   license "MIT"
 
   # depends_on "python@3.11"
