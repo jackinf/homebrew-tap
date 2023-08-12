@@ -1,10 +1,10 @@
 class MyPythonApp < Formula
   include Language::Python::Virtualenv
 
-  desc "Description of your Python console app"
+  desc "Example Python console app to play with Homebrew"
   homepage "https://github.com/jackinf/HellowBrew"
-  url "https://path/to/your/tarball.tar.gz"
-  sha256 "put_the_sha256_here"
+  url "https://github.com/jackinf/homebrew-tap/releases/download/0.1/hello-brew.tar.gz"
+  sha256 "278191488D87CE96F01300B08CA81163384A11101DEBAFEF9807FCE890BF6A64"
 
   depends_on "python@3.11"
 
